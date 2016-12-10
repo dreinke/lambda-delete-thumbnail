@@ -1,0 +1,8 @@
+{
+  "name": "lambda-delete-thumbnail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DeleteThumbnail.js",
+  "author": "Davi D Reinke <dreinke@gmail.com>",
+  "license": "ISC"
+}
